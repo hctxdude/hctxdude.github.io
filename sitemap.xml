@@ -3,29 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hctxdude.github.io/aboutme/</loc>
+    <lastmod>2019-05-30T00:58:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hctxdude.github.io/contact/</loc>
+    <lastmod>2019-05-30T00:58:34-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hctxdude.github.io/</loc>
     <lastmod>2019-05-30T00:58:34-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hctxdude.github.io/posts.html</loc>
+    <loc>https://hctxdude.github.io/posts/</loc>
     <lastmod>2019-05-30T00:58:34-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hctxdude.github.io/posts/welcome.html</loc>
+    <loc>https://hctxdude.github.io/posts/welcome/</loc>
     <lastmod>2019-05-30T00:58:34-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hctxdude.github.io/categories.html</loc>
+    <loc>https://hctxdude.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hctxdude.github.io/tags.html</loc>
+    <loc>https://hctxdude.github.io/stickies/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hctxdude.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
